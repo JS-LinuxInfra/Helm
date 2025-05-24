@@ -22,3 +22,21 @@ This project covers a series of operational Helm tasks. Each step includes scree
 
 ### Shutdown and delete the cluster.
 ![Step3](Images/step3.png)
+
+### Query artifacthub.io for consul chart.
+![Step4](Images/step4.png)
+
+### Add repo to local repos and confirm present on the control node.
+![Step5](Images/step5.png)
+
+### Add repo to local repos, confirm present on the control node, search repos for app.
+![Step6](Images/step6.png)
+
+### Start minikube, name and install app from local repo.
+![Step7](Images/step7.png)
+
+### Listed installed app(s) and uninstall.
+![Step8](Images/step8.png)
+
+### Listed local repo(s) and remove from the controlnode.
+![Step9](Images/step9.png)
