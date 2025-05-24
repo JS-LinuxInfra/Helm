@@ -7,6 +7,7 @@ This project covers a series of operational Helm tasks. Each step includes scree
 ## Environment
 - Kubernetes: v1.32.5
 - Helm: v3.17.3
+- Helm CLI
 - kubectl for CLI management and troubleshooting
 - Operating System: Ubuntu 24.04.2 LTS (Noble Numbat)
 - YAML manifests both authored manually or provided and manipulated/updated during troubleshooting
